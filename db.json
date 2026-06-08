@@ -1,0 +1,741 @@
+{
+  "resumes": [
+    {
+      "id": "fb9a3b33-2fb8-4fc5-99f3-3a8f5431eff4",
+      "raw_text": "\n      Nikhil Sharma\n      AI/ML Engineer\n      Skills: Python, PyTorch, TensorFlow, Scikit-Learn, CNNs, Transformers, Docker\n      Experience: Built an image classifier using PyTorch CNNs. Fine-tuned Llama models using PEFT/LoRA.\n    ",
+      "analysis": {
+        "skills": [
+          "Python",
+          "PyTorch",
+          "TensorFlow",
+          "Scikit-Learn",
+          "NumPy",
+          "Pandas"
+        ],
+        "frameworks": [
+          "PyTorch Lightning",
+          "FastAPI",
+          "HuggingFace"
+        ],
+        "languages": [
+          "Python",
+          "SQL",
+          "C++"
+        ],
+        "projects": [
+          {
+            "title": "Image Classifier using CNNs",
+            "description": "Built an image classification pipeline with PyTorch, achieving 92% validation accuracy on CIFAR-10."
+          },
+          {
+            "title": "LLM Fine-Tuning platform",
+            "description": "Implemented LoRA fine-tuning for Llama models using HuggingFace PEFT."
+          }
+        ],
+        "domain_specialization": "Machine Learning & Deep Learning",
+        "technical_depth": "Mid",
+        "strengths": [
+          "Strong fundamental training in deep learning architectures (CNNs, Transformers)",
+          "Practical knowledge of PEFT/LoRA fine-tuning workflows",
+          "Capable python programmer with good software engineering standards"
+        ],
+        "weaknesses": [
+          "Limited experience in scaling model deployments under high concurrency",
+          "Minimal exposure to GPU custom CUDA optimizations",
+          "Weak understanding of model drift monitoring and production MLOps loops"
+        ]
+      },
+      "created_at": "2026-06-03T22:58:23.013Z"
+    },
+    {
+      "id": "b1395808-724e-4022-b303-e22d6db227ab",
+      "raw_text": "[PDF FILE: NIKHIL PANDEY RESUME.pdf]",
+      "analysis": {
+        "skills": [
+          "Python",
+          "PyTorch",
+          "TensorFlow",
+          "Scikit-Learn",
+          "NumPy",
+          "Pandas"
+        ],
+        "frameworks": [
+          "PyTorch Lightning",
+          "FastAPI",
+          "HuggingFace"
+        ],
+        "languages": [
+          "Python",
+          "SQL",
+          "C++"
+        ],
+        "projects": [
+          {
+            "title": "Image Classifier using CNNs",
+            "description": "Built an image classification pipeline with PyTorch, achieving 92% validation accuracy on CIFAR-10."
+          },
+          {
+            "title": "LLM Fine-Tuning platform",
+            "description": "Implemented LoRA fine-tuning for Llama models using HuggingFace PEFT."
+          }
+        ],
+        "domain_specialization": "Machine Learning & Deep Learning",
+        "technical_depth": "Mid",
+        "strengths": [
+          "Strong fundamental training in deep learning architectures (CNNs, Transformers)",
+          "Practical knowledge of PEFT/LoRA fine-tuning workflows",
+          "Capable python programmer with good software engineering standards"
+        ],
+        "weaknesses": [
+          "Limited experience in scaling model deployments under high concurrency",
+          "Minimal exposure to GPU custom CUDA optimizations",
+          "Weak understanding of model drift monitoring and production MLOps loops"
+        ]
+      },
+      "created_at": "2026-06-04T12:11:14.510Z"
+    }
+  ],
+  "sessions": [
+    {
+      "id": "836f5d3b-34f1-4937-afe5-bfd81410145d",
+      "resume_id": "fb9a3b33-2fb8-4fc5-99f3-3a8f5431eff4",
+      "company": "NVIDIA",
+      "role": "AI/ML Engineer",
+      "experience_level": "Fresher",
+      "status": "completed",
+      "competency_scores": {
+        "Mathematics": 7,
+        "Statistics": 7,
+        "Machine Learning": 7,
+        "Deep Learning": 7,
+        "Computer Vision": 7,
+        "NLP": 7
+      },
+      "claimed_skills": [
+        {
+          "skill": "Python",
+          "level": "Mid",
+          "source": "resume"
+        },
+        {
+          "skill": "PyTorch",
+          "level": "Mid",
+          "source": "resume"
+        },
+        {
+          "skill": "TensorFlow",
+          "level": "Mid",
+          "source": "resume"
+        },
+        {
+          "skill": "Scikit-Learn",
+          "level": "Mid",
+          "source": "resume"
+        },
+        {
+          "skill": "NumPy",
+          "level": "Mid",
+          "source": "resume"
+        },
+        {
+          "skill": "Pandas",
+          "level": "Mid",
+          "source": "resume"
+        }
+      ],
+      "weaknesses_log": [],
+      "created_at": "2026-06-03T22:58:23.189Z"
+    },
+    {
+      "id": "bec585b6-30bf-4302-8bf2-694234f94458",
+      "resume_id": "b1395808-724e-4022-b303-e22d6db227ab",
+      "company": "Google",
+      "role": "AI/ML Engineer",
+      "experience_level": "Fresher",
+      "status": "completed",
+      "competency_scores": {
+        "Mathematics": 3,
+        "Statistics": 3,
+        "Machine Learning": 3
+      },
+      "claimed_skills": [
+        {
+          "skill": "Python",
+          "level": "Mid",
+          "source": "resume"
+        },
+        {
+          "skill": "PyTorch",
+          "level": "Mid",
+          "source": "resume"
+        },
+        {
+          "skill": "TensorFlow",
+          "level": "Mid",
+          "source": "resume"
+        },
+        {
+          "skill": "Scikit-Learn",
+          "level": "Mid",
+          "source": "resume"
+        },
+        {
+          "skill": "NumPy",
+          "level": "Mid",
+          "source": "resume"
+        },
+        {
+          "skill": "Pandas",
+          "level": "Mid",
+          "source": "resume"
+        }
+      ],
+      "weaknesses_log": [
+        {
+          "skill": "Python",
+          "weakness": "Candidate claimed proficiency in Python on their resume, but could not describe basic principles of Mathematics when prompted.",
+          "category": "claimed_competency_exceeds_demonstrated",
+          "timestamp": "2026-06-04T12:12:35.581Z"
+        },
+        {
+          "skill": "Python",
+          "weakness": "Candidate claimed proficiency in Python on their resume, but could not describe basic principles of Mathematics when prompted.",
+          "category": "claimed_competency_exceeds_demonstrated",
+          "timestamp": "2026-06-04T12:13:00.462Z"
+        },
+        {
+          "skill": "Python",
+          "weakness": "Candidate claimed proficiency in Python on their resume, but could not describe basic principles of Statistics when prompted.",
+          "category": "claimed_competency_exceeds_demonstrated",
+          "timestamp": "2026-06-04T12:13:09.953Z"
+        },
+        {
+          "skill": "Python",
+          "weakness": "Candidate claimed proficiency in Python on their resume, but could not describe basic principles of Statistics when prompted.",
+          "category": "claimed_competency_exceeds_demonstrated",
+          "timestamp": "2026-06-04T12:13:14.528Z"
+        },
+        {
+          "skill": "Python",
+          "weakness": "Candidate claimed proficiency in Python on their resume, but could not describe basic principles of Machine Learning when prompted.",
+          "category": "claimed_competency_exceeds_demonstrated",
+          "timestamp": "2026-06-04T12:13:17.744Z"
+        },
+        {
+          "skill": "Python",
+          "weakness": "Candidate claimed proficiency in Python on their resume, but could not describe basic principles of Machine Learning when prompted.",
+          "category": "claimed_competency_exceeds_demonstrated",
+          "timestamp": "2026-06-04T12:13:22.827Z"
+        }
+      ],
+      "created_at": "2026-06-04T12:11:26.539Z"
+    }
+  ],
+  "questions": [
+    {
+      "id": "32d1ff63-55ba-45b9-a135-e5722f568d99",
+      "session_id": "836f5d3b-34f1-4937-afe5-bfd81410145d",
+      "question_number": 1,
+      "competency": "Mathematics",
+      "origin": "resume_claim",
+      "difficulty_level": 3,
+      "question_text": "In deep learning backpropagation, how does the Jacobian matrix function during chain rule calculation of gradient descent? Can you explain the shape matching requirement? Think about how this impacts GPU caching, memory throughput, and kernel optimization.",
+      "answer_text": "I used CNNs (Convolutional Neural Networks) inside PyTorch to perform image feature extraction, pooling, and soft-max classification. I utilized cross-entropy loss and Adam optimizer to stabilize weights.",
+      "evaluation": {
+        "score": 7,
+        "critique": "The candidate demonstrated a reasonable conceptual understanding of the topic, but lacked some mathematical or systemic depth.",
+        "difficulty_adjustment": 0,
+        "follow_up_needed": false,
+        "mismatch": {
+          "has_mismatch": false,
+          "claimed_skill": "",
+          "details": ""
+        }
+      },
+      "communication_analysis": {
+        "words_per_minute": 65,
+        "filler_words": {},
+        "total_fillers": 0,
+        "clarity": "low"
+      },
+      "adaptation_log": "[SYS.ADAPTATION] Testing Mathematics at Level 3/5. Question origin: RESUME_CLAIM. NVIDIA hardware and latency optimization bias applied.",
+      "created_at": "2026-06-03T22:58:23.191Z"
+    },
+    {
+      "id": "a0b298b6-71be-423a-837c-4cf0d913a8a1",
+      "session_id": "836f5d3b-34f1-4937-afe5-bfd81410145d",
+      "question_number": 2,
+      "competency": "Statistics",
+      "origin": "competency_graph",
+      "difficulty_level": 3,
+      "question_text": "Explain the mathematical formulation of Maximum Likelihood Estimation (MLE). How does it differ from Maximum A Posteriori (MAP) estimation in terms of prior assumptions? Think about how this impacts GPU caching, memory throughput, and kernel optimization.",
+      "answer_text": "Backpropagation works by calculating the gradient of the loss function with respect to each weight using the chain rule. We compute partial derivatives layer by layer, starting from the output backwards. The Jacobian matrix is used to map gradient dimensions across layers.",
+      "evaluation": {
+        "score": 7,
+        "critique": "The candidate demonstrated a reasonable conceptual understanding of the topic, but lacked some mathematical or systemic depth.",
+        "difficulty_adjustment": 0,
+        "follow_up_needed": false,
+        "mismatch": {
+          "has_mismatch": false,
+          "claimed_skill": "",
+          "details": ""
+        }
+      },
+      "communication_analysis": {
+        "words_per_minute": 101,
+        "filler_words": {},
+        "total_fillers": 0,
+        "clarity": "high"
+      },
+      "adaptation_log": "[SYS.ADAPTATION] Testing Statistics at Level 3/5. Question origin: COMPETENCY_GRAPH. NVIDIA hardware and latency optimization bias applied.",
+      "created_at": "2026-06-03T22:58:23.362Z"
+    },
+    {
+      "id": "28be6c2f-9f94-4e2c-8223-fdfb586cf5c6",
+      "session_id": "836f5d3b-34f1-4937-afe5-bfd81410145d",
+      "question_number": 3,
+      "competency": "Machine Learning",
+      "origin": "company_style",
+      "difficulty_level": 3,
+      "question_text": "How does Random Forest reduce model variance mathematically compared to a single Decision Tree? Explain the concepts of bagging and feature bootstrapping. Think about how this impacts GPU caching, memory throughput, and kernel optimization.",
+      "answer_text": "Maximum Likelihood Estimation mathematically aims to maximize the likelihood function, meaning we choose parameters that make the observed data most probable. In contrast, MAP (Maximum A Posteriori) includes a prior distribution over parameters, using Bayes' theorem.",
+      "evaluation": {
+        "score": 7,
+        "critique": "The candidate demonstrated a reasonable conceptual understanding of the topic, but lacked some mathematical or systemic depth.",
+        "difficulty_adjustment": 0,
+        "follow_up_needed": false,
+        "mismatch": {
+          "has_mismatch": false,
+          "claimed_skill": "",
+          "details": ""
+        }
+      },
+      "communication_analysis": {
+        "words_per_minute": 86,
+        "filler_words": {},
+        "total_fillers": 0,
+        "clarity": "moderate"
+      },
+      "adaptation_log": "[SYS.ADAPTATION] Testing Machine Learning at Level 3/5. Question origin: COMPANY_STYLE. NVIDIA hardware and latency optimization bias applied.",
+      "created_at": "2026-06-03T22:58:23.384Z"
+    },
+    {
+      "id": "b4aa26d5-614d-4e34-88b9-4d9a34acab9d",
+      "session_id": "836f5d3b-34f1-4937-afe5-bfd81410145d",
+      "question_number": 4,
+      "competency": "Deep Learning",
+      "origin": "previous_answer",
+      "difficulty_level": 3,
+      "question_text": "Can you write down the self-attention formula in Transformers? Explain the role of the scaling factor (square root of key dimension) and what happens to the gradients if it is omitted. Think about how this impacts GPU caching, memory throughput, and kernel optimization.",
+      "answer_text": "Batch Normalization normalizes activations across the mini-batch dimension, which introduces dependency between batch samples and can fail with small batch sizes. Layer Normalization normalizes across features within a single sample, making it ideal for sequential recurrent architectures and Transformers.",
+      "evaluation": {
+        "score": 7,
+        "critique": "The candidate demonstrated a reasonable conceptual understanding of the topic, but lacked some mathematical or systemic depth.",
+        "difficulty_adjustment": 0,
+        "follow_up_needed": false,
+        "mismatch": {
+          "has_mismatch": false,
+          "claimed_skill": "",
+          "details": ""
+        }
+      },
+      "communication_analysis": {
+        "words_per_minute": 94,
+        "filler_words": {},
+        "total_fillers": 0,
+        "clarity": "moderate"
+      },
+      "adaptation_log": "[SYS.ADAPTATION] Testing Deep Learning at Level 3/5. Question origin: PREVIOUS_ANSWER. NVIDIA hardware and latency optimization bias applied.",
+      "created_at": "2026-06-03T22:58:23.405Z"
+    },
+    {
+      "id": "4c315309-e955-4a17-bb1e-1e51d1b0398e",
+      "session_id": "836f5d3b-34f1-4937-afe5-bfd81410145d",
+      "question_number": 5,
+      "competency": "Computer Vision",
+      "origin": "resume_claim",
+      "difficulty_level": 3,
+      "question_text": "Explain the mathematical differences between Layer Normalization (LayerNorm) and Batch Normalization (BatchNorm). Why does LayerNorm perform significantly better in sequential Transformer models? Think about how this impacts GPU caching, memory throughput, and kernel optimization.",
+      "answer_text": "Yes, the self-attention formula is Softmax(QK^T / sqrt(d_k)) * V. The scaling factor sqrt(d_k) scales the dot products to prevent the softmax from entering regions with extremely small gradients when d_k is large.",
+      "evaluation": {
+        "score": 7,
+        "critique": "The candidate demonstrated a reasonable conceptual understanding of the topic, but lacked some mathematical or systemic depth.",
+        "difficulty_adjustment": 0,
+        "follow_up_needed": false,
+        "mismatch": {
+          "has_mismatch": false,
+          "claimed_skill": "",
+          "details": ""
+        }
+      },
+      "communication_analysis": {
+        "words_per_minute": 79,
+        "filler_words": {},
+        "total_fillers": 0,
+        "clarity": "low"
+      },
+      "adaptation_log": "[SYS.ADAPTATION] Testing Computer Vision at Level 3/5. Question origin: RESUME_CLAIM. NVIDIA hardware and latency optimization bias applied.",
+      "created_at": "2026-06-03T22:58:23.426Z"
+    },
+    {
+      "id": "e40727fc-b756-4962-9ddc-7db0986bd627",
+      "session_id": "836f5d3b-34f1-4937-afe5-bfd81410145d",
+      "question_number": 6,
+      "competency": "NLP",
+      "origin": "competency_graph",
+      "difficulty_level": 3,
+      "question_text": "What is the mathematical rationale behind Parameter-Efficient Fine-Tuning (PEFT) methods like LoRA? How does low-rank matrix decomposition reduce the memory footprint during training? Think about how this impacts GPU caching, memory throughput, and kernel optimization.",
+      "answer_text": "MLOps deployment involves serializing the model to ONNX, optimizing with NVIDIA TensorRT to enable FP16 quantization, and serving it in a containerized FastAPI service deployed on Docker.",
+      "evaluation": {
+        "score": 7,
+        "critique": "The candidate demonstrated a reasonable conceptual understanding of the topic, but lacked some mathematical or systemic depth.",
+        "difficulty_adjustment": 0,
+        "follow_up_needed": false,
+        "mismatch": {
+          "has_mismatch": false,
+          "claimed_skill": "",
+          "details": ""
+        }
+      },
+      "communication_analysis": {
+        "words_per_minute": 65,
+        "filler_words": {},
+        "total_fillers": 0,
+        "clarity": "low"
+      },
+      "adaptation_log": "[SYS.ADAPTATION] Testing NLP at Level 3/5. Question origin: COMPETENCY_GRAPH. NVIDIA hardware and latency optimization bias applied.",
+      "created_at": "2026-06-03T22:58:23.448Z"
+    },
+    {
+      "id": "410d1874-d57f-44ab-bcdc-e0a4ebecf184",
+      "session_id": "bec585b6-30bf-4302-8bf2-694234f94458",
+      "question_number": 1,
+      "competency": "Mathematics",
+      "origin": "resume_claim",
+      "difficulty_level": 3,
+      "question_text": "In deep learning backpropagation, how does the Jacobian matrix function during chain rule calculation of gradient descent? Can you explain the shape matching requirement? Focus specifically on the fundamental tradeoffs and architectural reasoning.",
+      "answer_text": "i do not know",
+      "evaluation": {
+        "score": 3,
+        "critique": "The response was extremely brief and failed to provide any technical details or concrete explanation of the concepts asked.",
+        "difficulty_adjustment": -1,
+        "follow_up_needed": true,
+        "mismatch": {
+          "has_mismatch": true,
+          "claimed_skill": "Python",
+          "details": "Candidate claimed proficiency in Python on their resume, but could not describe basic principles of Mathematics when prompted."
+        }
+      },
+      "communication_analysis": {
+        "words_per_minute": 4,
+        "filler_words": {},
+        "total_fillers": 0,
+        "clarity": "low"
+      },
+      "adaptation_log": "[SYS.ADAPTATION] Testing Mathematics at Level 3/5. Question origin: RESUME_CLAIM. Google fundamentals focus bias applied.",
+      "created_at": "2026-06-04T12:11:26.542Z"
+    },
+    {
+      "id": "d6d7d10a-26c8-4a53-bdc6-c046efb9da41",
+      "session_id": "bec585b6-30bf-4302-8bf2-694234f94458",
+      "question_number": 2,
+      "competency": "Mathematics",
+      "origin": "competency_graph",
+      "difficulty_level": 2,
+      "question_text": "Suppose you are training a model using Stochastic Gradient Descent. What mathematical conditions define a convex optimization problem, and how does gradient descent guarantee global convergence in this setup? Focus specifically on the fundamental tradeoffs and architectural reasoning.",
+      "answer_text": "i do not know the answer",
+      "evaluation": {
+        "score": 3,
+        "critique": "The response was extremely brief and failed to provide any technical details or concrete explanation of the concepts asked.",
+        "difficulty_adjustment": -1,
+        "follow_up_needed": true,
+        "mismatch": {
+          "has_mismatch": true,
+          "claimed_skill": "Python",
+          "details": "Candidate claimed proficiency in Python on their resume, but could not describe basic principles of Mathematics when prompted."
+        }
+      },
+      "communication_analysis": {
+        "words_per_minute": 14,
+        "filler_words": {},
+        "total_fillers": 0,
+        "clarity": "low"
+      },
+      "adaptation_log": "[SYS.ADAPTATION] Testing Mathematics at Level 2/5. Question origin: COMPETENCY_GRAPH. Google fundamentals focus bias applied.",
+      "created_at": "2026-06-04T12:12:35.584Z"
+    },
+    {
+      "id": "1a5a0c29-de60-42b7-bfff-4a69e647b0c0",
+      "session_id": "bec585b6-30bf-4302-8bf2-694234f94458",
+      "question_number": 3,
+      "competency": "Statistics",
+      "origin": "company_style",
+      "difficulty_level": 1,
+      "question_text": "Explain the mathematical formulation of Maximum Likelihood Estimation (MLE). How does it differ from Maximum A Posteriori (MAP) estimation in terms of prior assumptions? Focus specifically on the fundamental tradeoffs and architectural reasoning.",
+      "answer_text": "i do not know the answer",
+      "evaluation": {
+        "score": 3,
+        "critique": "The response was extremely brief and failed to provide any technical details or concrete explanation of the concepts asked.",
+        "difficulty_adjustment": -1,
+        "follow_up_needed": true,
+        "mismatch": {
+          "has_mismatch": true,
+          "claimed_skill": "Python",
+          "details": "Candidate claimed proficiency in Python on their resume, but could not describe basic principles of Statistics when prompted."
+        }
+      },
+      "communication_analysis": {
+        "words_per_minute": 40,
+        "filler_words": {},
+        "total_fillers": 0,
+        "clarity": "low"
+      },
+      "adaptation_log": "[SYS.ADAPTATION] Testing Statistics at Level 1/5. Question origin: COMPANY_STYLE. Google fundamentals focus bias applied.",
+      "created_at": "2026-06-04T12:13:00.467Z"
+    },
+    {
+      "id": "ad98fe83-9646-4abe-84f6-70d0639d00c6",
+      "session_id": "bec585b6-30bf-4302-8bf2-694234f94458",
+      "question_number": 4,
+      "competency": "Statistics",
+      "origin": "previous_answer",
+      "difficulty_level": 1,
+      "question_text": "Explain the mathematical formulation of Maximum Likelihood Estimation (MLE). How does it differ from Maximum A Posteriori (MAP) estimation in terms of prior assumptions? Focus specifically on the fundamental tradeoffs and architectural reasoning.",
+      "answer_text": "i do not know the answer",
+      "evaluation": {
+        "score": 3,
+        "critique": "The response was extremely brief and failed to provide any technical details or concrete explanation of the concepts asked.",
+        "difficulty_adjustment": -1,
+        "follow_up_needed": true,
+        "mismatch": {
+          "has_mismatch": true,
+          "claimed_skill": "Python",
+          "details": "Candidate claimed proficiency in Python on their resume, but could not describe basic principles of Statistics when prompted."
+        }
+      },
+      "communication_analysis": {
+        "words_per_minute": 90,
+        "filler_words": {},
+        "total_fillers": 0,
+        "clarity": "moderate"
+      },
+      "adaptation_log": "[SYS.ADAPTATION] Testing Statistics at Level 1/5. Question origin: PREVIOUS_ANSWER. Google fundamentals focus bias applied.",
+      "created_at": "2026-06-04T12:13:09.956Z"
+    },
+    {
+      "id": "62c1b730-fac4-4759-9e46-0bf008424eaa",
+      "session_id": "bec585b6-30bf-4302-8bf2-694234f94458",
+      "question_number": 5,
+      "competency": "Machine Learning",
+      "origin": "resume_claim",
+      "difficulty_level": 1,
+      "question_text": "How does Random Forest reduce model variance mathematically compared to a single Decision Tree? Explain the concepts of bagging and feature bootstrapping. Focus specifically on the fundamental tradeoffs and architectural reasoning.",
+      "answer_text": "i do not know the answer",
+      "evaluation": {
+        "score": 3,
+        "critique": "The response was extremely brief and failed to provide any technical details or concrete explanation of the concepts asked.",
+        "difficulty_adjustment": -1,
+        "follow_up_needed": true,
+        "mismatch": {
+          "has_mismatch": true,
+          "claimed_skill": "Python",
+          "details": "Candidate claimed proficiency in Python on their resume, but could not describe basic principles of Machine Learning when prompted."
+        }
+      },
+      "communication_analysis": {
+        "words_per_minute": 120,
+        "filler_words": {},
+        "total_fillers": 0,
+        "clarity": "high"
+      },
+      "adaptation_log": "[SYS.ADAPTATION] Testing Machine Learning at Level 1/5. Question origin: RESUME_CLAIM. Google fundamentals focus bias applied.",
+      "created_at": "2026-06-04T12:13:14.531Z"
+    },
+    {
+      "id": "9736daed-2554-47e4-9da6-af58b20e9ead",
+      "session_id": "bec585b6-30bf-4302-8bf2-694234f94458",
+      "question_number": 6,
+      "competency": "Machine Learning",
+      "origin": "competency_graph",
+      "difficulty_level": 1,
+      "question_text": "How does Random Forest reduce model variance mathematically compared to a single Decision Tree? Explain the concepts of bagging and feature bootstrapping. Focus specifically on the fundamental tradeoffs and architectural reasoning.",
+      "answer_text": "i do not know the answer",
+      "evaluation": {
+        "score": 3,
+        "critique": "The response was extremely brief and failed to provide any technical details or concrete explanation of the concepts asked.",
+        "difficulty_adjustment": -1,
+        "follow_up_needed": true,
+        "mismatch": {
+          "has_mismatch": true,
+          "claimed_skill": "Python",
+          "details": "Candidate claimed proficiency in Python on their resume, but could not describe basic principles of Machine Learning when prompted."
+        }
+      },
+      "communication_analysis": {
+        "words_per_minute": 72,
+        "filler_words": {},
+        "total_fillers": 0,
+        "clarity": "low"
+      },
+      "adaptation_log": "[SYS.ADAPTATION] Testing Machine Learning at Level 1/5. Question origin: COMPETENCY_GRAPH. Google fundamentals focus bias applied.",
+      "created_at": "2026-06-04T12:13:17.747Z"
+    }
+  ],
+  "reports": [
+    {
+      "id": "ad1d4104-20a7-4f1b-8d23-aaebc727c3c4",
+      "session_id": "836f5d3b-34f1-4937-afe5-bfd81410145d",
+      "technical_score": 70,
+      "problem_solving_score": 67,
+      "communication_score": 85,
+      "role_readiness_score": 71,
+      "company_readiness_score": 69,
+      "scores_reasoning": {
+        "technical": "The candidate demonstrates strong theoretical knowledge in model architectures, scoring highly on fundamentals. However, gaps remain in operational deployment.",
+        "problem_solving": "Structured their thoughts well, identifying trade-offs in scale and speed, although optimizations under low memory limits could be improved.",
+        "communication": "Maintained a steady pacing of ~130 WPM with clear articulation. Minimal filler words used.",
+        "role_readiness": "Fits the Fresher profile well. Solid engineering foundations and ready to commit code under supervision.",
+        "company_readiness": "Demonstrates alignment with NVIDIA's core principles (hardware efficiency)."
+      },
+      "competency_scores": {
+        "Mathematics": 7,
+        "Statistics": 7,
+        "Machine Learning": 7,
+        "Deep Learning": 7,
+        "Computer Vision": 7,
+        "NLP": 7
+      },
+      "claim_vs_demonstrated": [
+        {
+          "claim": "Python",
+          "demonstrated": "Demonstrated solid working knowledge and explained tradeoffs correctly.",
+          "match_status": "match"
+        },
+        {
+          "claim": "PyTorch",
+          "demonstrated": "Demonstrated solid working knowledge and explained tradeoffs correctly.",
+          "match_status": "match"
+        },
+        {
+          "claim": "TensorFlow",
+          "demonstrated": "Demonstrated solid working knowledge and explained tradeoffs correctly.",
+          "match_status": "match"
+        },
+        {
+          "claim": "Scikit-Learn",
+          "demonstrated": "Not probed during this session.",
+          "match_status": "untested"
+        },
+        {
+          "claim": "NumPy",
+          "demonstrated": "Not probed during this session.",
+          "match_status": "untested"
+        },
+        {
+          "claim": "Pandas",
+          "demonstrated": "Not probed during this session.",
+          "match_status": "untested"
+        }
+      ],
+      "failure_points": [
+        "Inability to formulate low-level performance tradeoffs under heavy GPU caching parameters (Critical for NVIDIA).",
+        "Shallow answers when pressed on mathematical proofs and convergence details."
+      ],
+      "strengths": [
+        "Excellent communication clarity and structured thinking under technical questioning.",
+        "Good familiarity with development workflows and container tooling.",
+        "Strong grasp of core data structures and index optimizations."
+      ],
+      "weaknesses": [
+        "Struggled to articulate distributed transaction handling mechanisms (Saga/2PC).",
+        "Limited depth on custom hardware memory scheduling limitations.",
+        "Slow response times when adjusting algorithm parameters to lower spatial complexity."
+      ],
+      "missing_skills": [
+        "CUDA Programming",
+        "Advanced Network Telemetry"
+      ],
+      "learning_recommendations": [
+        "Review: Deep Learning (Goodfellow et al.) Attention section.",
+        "Read: NVIDIA whitepapers and technical blog posts regarding recent model deployments."
+      ],
+      "created_at": "2026-06-03T22:58:23.469Z"
+    },
+    {
+      "id": "528599c6-1b45-4902-8797-faa92db608b1",
+      "session_id": "bec585b6-30bf-4302-8bf2-694234f94458",
+      "technical_score": 30,
+      "problem_solving_score": 29,
+      "communication_score": 85,
+      "role_readiness_score": 31,
+      "company_readiness_score": 29,
+      "scores_reasoning": {
+        "technical": "The candidate demonstrates strong theoretical knowledge in model architectures, scoring highly on fundamentals. However, gaps remain in operational deployment.",
+        "problem_solving": "Structured their thoughts well, identifying trade-offs in scale and speed, although optimizations under low memory limits could be improved.",
+        "communication": "Maintained a steady pacing of ~130 WPM with clear articulation. Minimal filler words used.",
+        "role_readiness": "Fits the Fresher profile well. Solid engineering foundations and ready to commit code under supervision.",
+        "company_readiness": "Demonstrates alignment with Google's core principles (algorithmic scaling)."
+      },
+      "competency_scores": {
+        "Mathematics": 3,
+        "Statistics": 3,
+        "Machine Learning": 3
+      },
+      "claim_vs_demonstrated": [
+        {
+          "claim": "Python",
+          "demonstrated": "Struggled to articulate core principles under prompt questions.",
+          "match_status": "mismatch"
+        },
+        {
+          "claim": "PyTorch",
+          "demonstrated": "Demonstrated solid working knowledge and explained tradeoffs correctly.",
+          "match_status": "match"
+        },
+        {
+          "claim": "TensorFlow",
+          "demonstrated": "Demonstrated solid working knowledge and explained tradeoffs correctly.",
+          "match_status": "match"
+        },
+        {
+          "claim": "Scikit-Learn",
+          "demonstrated": "Not probed during this session.",
+          "match_status": "untested"
+        },
+        {
+          "claim": "NumPy",
+          "demonstrated": "Not probed during this session.",
+          "match_status": "untested"
+        },
+        {
+          "claim": "Pandas",
+          "demonstrated": "Not probed during this session.",
+          "match_status": "untested"
+        }
+      ],
+      "failure_points": [
+        "Inability to formulate low-level performance tradeoffs under heavy GPU caching parameters (Critical for Google).",
+        "Shallow answers when pressed on mathematical proofs and convergence details."
+      ],
+      "strengths": [
+        "Excellent communication clarity and structured thinking under technical questioning.",
+        "Good familiarity with development workflows and container tooling.",
+        "Strong grasp of core data structures and index optimizations."
+      ],
+      "weaknesses": [
+        "Struggled to articulate distributed transaction handling mechanisms (Saga/2PC).",
+        "Limited depth on custom hardware memory scheduling limitations.",
+        "Slow response times when adjusting algorithm parameters to lower spatial complexity."
+      ],
+      "missing_skills": [
+        "CUDA Programming",
+        "Advanced Network Telemetry"
+      ],
+      "learning_recommendations": [
+        "Review: Deep Learning (Goodfellow et al.) Attention section.",
+        "Read: Google whitepapers and technical blog posts regarding recent model deployments."
+      ],
+      "created_at": "2026-06-04T12:13:22.831Z"
+    }
+  ]
+}
